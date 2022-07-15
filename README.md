@@ -1,2 +1,2 @@
 # fast-food-flex-box
-Study with flex-box example of layout
+Study with flex-box and media query example of layout
